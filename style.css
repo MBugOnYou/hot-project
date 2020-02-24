@@ -1,0 +1,73 @@
+.button-black{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.carousel-indicators li {
+    background-color: #999;
+    height: 8px;
+  }
+  
+  .carousel-indicators .active {
+    background-color: rgb(255, 196, 0);
+  }
+ .card-footer{
+     background-color: white;
+     border: none;
+ }
+ .card-body{
+     text-align: center;
+ }
+ .card{
+     border: none;
+     border-radius: 10px;
+     box-shadow: 5px 5px 5px 5px whitesmoke;
+ }
+ .card h6{
+     text-align: center;
+ }
+
+ .cat-row-design
+ {
+     margin-bottom: 30px;
+     margin-left: 20px;
+     padding: 20px 50px;
+
+ }
+ .bag{
+     border-bottom-left-radius: 15px;
+     border-bottom-right-radius: 0px;
+     border-top-left-radius: 0px;
+     border-top-right-radius: 10px;
+ }
+
+ .text-seeall{
+     color: orange;
+ }
+ .sm-margin{
+padding-top: 50px;
+ padding-bottom: 50px;
+ }
+ .line{
+     border: 5px solid orange;
+     border-radius: 5px;
+     width:70px
+ }
+ footer p{
+     text-align: center;
+     padding: 50px 10px 20px;
+     color: gray;
+ }
+
+ #home{
+     padding-top: 100px;
+ }
+ #product{
+    padding-top: 120px;
+ }
+
+ #contactus p{
+     text-align: center;
+ }
